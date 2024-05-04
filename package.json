@@ -1,0 +1,17 @@
+{
+    "name": "vote-tracker",
+    "version": "6.0.0",
+    "description": "A professional npm package for tracking votes",
+    "typings": "typings.d.ts",
+    "main": "src/index.js",
+    "dependencies": {
+        "@top-gg/sdk": "^3.1.6",
+        "discord.js": "^14.14.1",
+        "express": "^4.19.1"
+    },
+    "author": "itachi9797",
+    "repository": {
+        "url": "https://github.com/itachi9797/vote-tracker"
+    },
+    "license": "MIT"
+}
